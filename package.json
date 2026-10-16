@@ -1,0 +1,9 @@
+{
+  "name": "qa-live",
+  "version": "1.0.0",
+  "description": "أسئلة مباشرة: الجمهور يمسح QR ويكتب سؤاله والسؤال يظهر على الشاشة",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "qrcode": "^1.5.4" }
+}
